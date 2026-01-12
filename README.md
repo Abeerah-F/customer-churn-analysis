@@ -1,16 +1,29 @@
 # Customer Churn Analysis
 
 ## Objective
-The goal of this project is to analyze customer data to identify key factors that contribute to customer churn and to build a predictive model to identify customers at risk of leaving.
+Analyze customer data to identify key factors that contribute to customer churn and to build a predictive model to identify customers at risk of leaving.
+
+## Dataset
+Telco Customer Churn dataset containing customer demographics, services, and billing information.
 
 ## Tools & Technologies
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
-- Scikit-learn
-- Jupyter Notebook
 
 ## Project Structure
 - data/: Raw and processed datasets
 - notebooks/: Jupyter notebooks for analysis
 - visuals/: Plots and charts
+
+## Project Workflow
+- Data Cleaning
+- Exploratory Data Analysis
+- Insight generation
+
+## Key Insights
+- Month-to-Month contracts have highest Churn rates
+- Short tenure strongly correlates with churn
+- High monthly charges increase churn risk
+
+
