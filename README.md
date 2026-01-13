@@ -27,3 +27,5 @@ Telco Customer Churn dataset containing customer demographics, services, and bil
 - High monthly charges increase churn risk
 
 
+## Machine Learning
+BUilt a baseline logistic regression model to predict customer churn. Model evaluation using accuracy. confusion matrix, and classification report showed strong [erformance for non-churn prediction and reasonable churn detection, establishing a foundation for further model refinement. 
