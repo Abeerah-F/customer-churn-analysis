@@ -28,4 +28,4 @@ Telco Customer Churn dataset containing customer demographics, services, and bil
 
 
 ## Machine Learning
-BUilt a baseline logistic regression model to predict customer churn. Model evaluation using accuracy. confusion matrix, and classification report showed strong performance for non-churn prediction and reasonable churn detection, establishing a foundation for further model refinement. 
+Built a baseline logistic regression model to predict customer churn. Model evaluation using accuracy. confusion matrix, and classification report showed strong performance for non-churn prediction and reasonable churn detection, establishing a foundation for further model refinement. 
